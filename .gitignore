@@ -1,0 +1,16 @@
+*.exe
+*.exe~
+*.test
+*.out
+*.syso
+cover.*
+coverage.*
+
+
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+.idea/
+.vscode/
